@@ -2,6 +2,8 @@ import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { API_BASE_URL } from '../../config';
 
 const POLL_MS = 5000;
+const FRAMES_PER_PAGE = 30;
+const ROTATION_MS = 3000;
 const useLiveClock = () => {
   const [now, setNow] = React.useState(new Date());
   React.useEffect(() => { const id = setInterval(() => setNow(new Date()), 1000); return () => clearInterval(id); }, []);
@@ -34,7 +36,7 @@ export default function MagicBoxCrowdDashboard() {
   const [devices, setDevices] = useState([]);
   const [fleet, setFleet] = useState([]);
   const [frames, setFrames] = useState([]);
-  const [frameLimit, setFrameLimit] = useState(24);
+  const [frameLimit, setFrameLimit] = useState(500);
   const [search, setSearch] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
   const [selectedStation, setSelectedStation] = useState(null);
@@ -47,7 +49,9 @@ export default function MagicBoxCrowdDashboard() {
   const [zoomIdx, setZoomIdx] = useState(-1);
   const [viewMode, setViewMode] = useState('all'); // 'all' | 'detected'
   const [detectedFrames, setDetectedFrames] = useState([]);
-  const [detectedVisible, setDetectedVisible] = useState(24);
+  const [detectedVisible, setDetectedVisible] = useState(500);
+  const [rotationPage, setRotationPage] = useState(0);
+  const [showAllFrames, setShowAllFrames] = useState(false);
   const [locFilter, setLocFilter] = useState([]);
   const [camFilter, setCamFilter] = useState([]);
   const [showLocDrop, setShowLocDrop] = useState(false);
@@ -328,6 +332,13 @@ export default function MagicBoxCrowdDashboard() {
     }
     return list;
   }, [frames, historyFrames, detectedFrames, stationIps, selectedStation, selectedDevice, selectedCamera, selectedHour, viewMode, locFilter, camFilter, meta]);
+
+  /* rotation: slice activeFrames into pages */
+  const totalPages = Math.max(1, Math.ceil(activeFrames.length / FRAMES_PER_PAGE));
+  const safePage = activeFrames.length > 0 ? rotationPage % totalPages : 0;
+  const visibleFrames = (viewMode === 'all' && selectedHour === null && activeFrames.length > FRAMES_PER_PAGE && !showAllFrames)
+    ? activeFrames.slice(safePage * FRAMES_PER_PAGE, (safePage + 1) * FRAMES_PER_PAGE)
+    : activeFrames;
 
   const selectionLabel = useMemo(() => {
     if (selectedCamera && selectedDevice) return `${selectedCamera} — ${meta[selectedDevice]?.name || selectedDevice}`;
@@ -671,8 +682,24 @@ export default function MagicBoxCrowdDashboard() {
             </div>
           ) : (
             <>
+                            {viewMode === 'all' && selectedHour === null && activeFrames.length > FRAMES_PER_PAGE && (
+                <div className="flex items-center justify-between mb-3">
+                  <div className="flex items-center gap-3">
+                    <span className="text-white/50 text-sm">{activeFrames.length} frames</span>
+                    <span className="text-white/30">&middot;</span>
+                    <span className="text-violet-400/70 text-sm">Page {safePage + 1} of {totalPages}</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <button onClick={() => setRotationPage(p => (p - 1 + totalPages) % totalPages)} className="text-white/40 hover:text-white/80 text-sm px-2 py-1 rounded border border-white/10 hover:border-white/30 transition-colors">&larr;</button>
+                    <div className="w-32 h-1.5 bg-white/10 rounded-full overflow-hidden">
+                      <div className="h-full bg-violet-500/60 rounded-full transition-all duration-300" style={{width: ((safePage + 1) / totalPages * 100) + '%'}} />
+                    </div>
+                    <button onClick={() => setRotationPage(p => (p + 1) % totalPages)} className="text-white/40 hover:text-white/80 text-sm px-2 py-1 rounded border border-white/10 hover:border-white/30 transition-colors">&rarr;</button>
+                  </div>
+                </div>
+              )}
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
-                {activeFrames.map((f, i) => (
+                {visibleFrames.map((f, i) => (
                   <FrameCard key={`${f.device_id}-${f.camera_name}-${f.timestamp}-${i}`} f={f} meta={meta} onClick={() => openZoom(f, i)} />
                 ))}
               </div>
@@ -683,9 +710,11 @@ export default function MagicBoxCrowdDashboard() {
                   </button>
                 </div>
               )}
-              {viewMode !== 'detected' && selectedHour === null && frameLimit < 100 && activeFrames.length >= frameLimit - 5 && (
+              {viewMode === 'all' && selectedHour === null && activeFrames.length > FRAMES_PER_PAGE && (
                 <div className="text-center mt-5">
-                  <button onClick={loadMore} className="text-violet-300 hover:text-violet-200 text-sm border border-violet-400/30 rounded-lg px-5 py-2 hover:bg-violet-500/10 transition-colors">Load more frames</button>
+                  <button onClick={() => { setShowAllFrames(s => !s); setRotationPage(0); }} className="text-violet-300 hover:text-violet-200 text-sm border border-violet-400/30 rounded-lg px-5 py-2 hover:bg-violet-500/10 transition-colors">
+                    {showAllFrames ? `Resume rotation (${FRAMES_PER_PAGE} per page)` : `Show all ${activeFrames.length} frames`}
+                  </button>
                 </div>
               )}
             </>

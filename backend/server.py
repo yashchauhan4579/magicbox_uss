@@ -4789,7 +4789,7 @@ def run_control_server(start_source_fn, start_upload_fn, initial_overlays):
 # ── MagicBox Crowd (Edge Device Head Counts) ─────────────────────────────
 _mb_crowd: dict = {}          # {device_id: {last_report, first_seen, last_seen, total_reports}}
 _mb_crowd_lock = threading.Lock()
-_mb_crowd_frames = deque(maxlen=100)  # recent frames for /frames API
+_mb_crowd_frames = deque(maxlen=500)  # recent frames for /frames API
 _mb_fleet_cache: dict = {"data": None, "ts": 0}
 _MB_FRAMES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "crowd_frames")
 import base64 as _b64
@@ -4957,7 +4957,7 @@ def api_magicbox_crowd_frames(request: Request):
         limit = int(request.query_params.get("limit", 20))
     except (ValueError, TypeError):
         limit = 20
-    limit = max(1, min(limit, 100))
+    limit = max(1, min(limit, 500))
     with _mb_crowd_lock:
         frames = list(reversed(_mb_crowd_frames))[:limit]
     return {"frames": frames, "count": len(frames), "total": len(_mb_crowd_frames)}
