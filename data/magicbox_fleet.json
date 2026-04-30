@@ -1,0 +1,4947 @@
+[
+ {
+  "name": "80 feet Rd, 1st phase, Girinagar",
+  "devices": [
+   {
+    "name": "80 feet Rd, 1st phase, Girinagar",
+    "ip": "10.100.0.125",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "8th cross Rd, Phase 2, Girinagar",
+  "devices": [
+   {
+    "name": "8th cross Rd, Phase 2, Girinagar",
+    "ip": "10.100.0.127",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.104",
+      "ip": "192.168.0.104"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.104",
+      "ip": "192.168.0.104"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Adithiya hotel",
+  "devices": [
+   {
+    "name": "Adithiya hotel",
+    "ip": "10.100.2.10",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.245",
+      "ip": "192.168.0.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.245",
+      "ip": "192.168.0.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.245",
+      "ip": "192.168.0.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.245",
+      "ip": "192.168.0.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Admin",
+  "devices": [
+   {
+    "name": "Mahadevpura",
+    "ip": "10.100.0.42",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "All Liquor Shop",
+  "devices": [
+   {
+    "name": "All Liquor Shop",
+    "ip": "10.100.1.132",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Amruthahalli",
+  "devices": [
+   {
+    "name": "panchamicomforts",
+    "ip": "10.100.2.37",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Amulya Bar, Chikkajala",
+  "devices": [
+   {
+    "name": "Amulya Bar, Chikkajala",
+    "ip": "10.100.1.249",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.104",
+      "ip": "192.168.1.104"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.104",
+      "ip": "192.168.1.104"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Anna Travels, Madivala",
+  "devices": [
+   {
+    "name": "Anna Travels, Madivala",
+    "ip": "10.100.1.184",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Asis building",
+  "devices": [
+   {
+    "name": "Asis building",
+    "ip": "10.100.2.39",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.113",
+      "ip": "192.168.0.113"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.113",
+      "ip": "192.168.0.113"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Attide Hotel, Yelahanka",
+  "devices": [
+   {
+    "name": "Attide Hotel, Yelahanka",
+    "ip": "10.100.1.205",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.183",
+      "ip": "192.168.1.183"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Bagalur",
+  "devices": [
+   {
+    "name": "Indian Oil, HP Gate",
+    "ip": "10.100.0.209",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Banashankari",
+  "devices": [
+   {
+    "name": "Umesh Hotel, Seshadripuram",
+    "ip": "10.100.1.131",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Beguru PS",
+  "devices": [
+   {
+    "name": "SN Recidency, 72 Cross",
+    "ip": "10.100.1.77",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Bengaluru Bar, Church Street",
+  "devices": [
+   {
+    "name": "Bengaluru Bar, Church Street",
+    "ip": "10.100.1.104",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Brau Galie",
+  "devices": [
+   {
+    "name": "Brau Galie",
+    "ip": "10.100.1.169",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Bus Stop - Viveknagar",
+  "devices": [
+   {
+    "name": "Bus Stop - Viveknagar",
+    "ip": "10.100.1.112",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Byadarahalli",
+  "devices": [
+   {
+    "name": "krishnavaibhavhotel",
+    "ip": "10.100.2.89",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.110",
+      "ip": "192.168.0.110"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Calicut PG, SG Palya",
+  "devices": [
+   {
+    "name": "Calicut PG, SG Palya",
+    "ip": "10.100.1.189",
+    "cameras": [
+     {
+      "name": "NVR Channel - 10.0.0.4",
+      "ip": "10.0.0.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Chikkajala",
+  "devices": [
+   {
+    "name": "Hemadri Lodge",
+    "ip": "10.100.1.81",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.114",
+      "ip": "192.168.0.114"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.114",
+      "ip": "192.168.0.114"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Chinnaswamy Stadium",
+  "devices": [
+   {
+    "name": "Chinnaswamy Stadium",
+    "ip": "10.100.1.140",
+    "cameras": [
+     {
+      "name": "Channel 10",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 13",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 14",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 16",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 18",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 22",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 23",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 26",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 32",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 33",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 37",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 4",
+      "ip": "192.168.103.51"
+     },
+     {
+      "name": "Channel 5",
+      "ip": "192.168.103.51"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Coastal Dine, Thalaghattapura",
+  "devices": [
+   {
+    "name": "Coastal Dine, Thalaghattapura",
+    "ip": "10.100.0.184",
+    "cameras": [
+     {
+      "name": "Camera 20",
+      "ip": "192.168.0.20"
+     },
+     {
+      "name": "Camera 21",
+      "ip": "192.168.0.21"
+     },
+     {
+      "name": "Camera 23",
+      "ip": "192.168.0.23"
+     },
+     {
+      "name": "Camera 24",
+      "ip": "192.168.0.24"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Command Centre",
+  "devices": [
+   {
+    "name": "moorumara junction",
+    "ip": "10.100.1.103",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 193.168.0.100",
+      "ip": "193.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Commercial Street",
+  "devices": [
+   {
+    "name": "Sri Matha Vaibhava Hotel, Mico layout",
+    "ip": "10.100.1.188",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192,168.1.2",
+      "ip": "192,168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Cottonpet",
+  "devices": [
+   {
+    "name": "Rentorio PG, 5th cross, Magadi Rd",
+    "ip": "10.100.1.85",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.182",
+      "ip": "192.168.0.182"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.182",
+      "ip": "192.168.0.182"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Cozy Cafe, Chikkajala",
+  "devices": [
+   {
+    "name": "Cozy Cafe, Chikkajala",
+    "ip": "10.100.1.241",
+    "cameras": [
+     {
+      "name": "Camera - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Devanahalli",
+  "devices": [
+   {
+    "name": "Parappana Agrahara",
+    "ip": "10.100.0.225",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Devarajeevanahalli",
+  "devices": [
+   {
+    "name": "Near Muthyalamma Temple",
+    "ip": "10.100.2.23",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.118"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.116"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.116"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.116"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Dhurga hardware",
+  "devices": [
+   {
+    "name": "Dhurga hardware",
+    "ip": "10.100.0.210",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.240",
+      "ip": "192.168.0.240"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "EG Production, Bagalagunte",
+  "devices": [
+   {
+    "name": "EG Production, Bagalagunte",
+    "ip": "10.100.1.149",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Edify school, Kadugodi",
+  "devices": [
+   {
+    "name": "Edify school, Kadugodi",
+    "ip": "10.100.1.10",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.150",
+      "ip": "192.168.1.150"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.150",
+      "ip": "192.168.1.150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Electronic City",
+  "devices": [
+   {
+    "name": "brand factory",
+    "ip": "10.100.0.193",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "G Super Club",
+  "devices": [
+   {
+    "name": "G Super Club",
+    "ip": "10.100.0.72",
+    "cameras": [
+     {
+      "name": "Camera - 192.168.1.117",
+      "ip": "192.168.1.117"
+     },
+     {
+      "name": "Camera - 192.168.1.119",
+      "ip": "192.168.1.119"
+     },
+     {
+      "name": "Camera - 192.168.1.120",
+      "ip": "192.168.1.120"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Ganesh Temple, Banashankari",
+  "devices": [
+   {
+    "name": "Ganesh Temple, Banashankari",
+    "ip": "10.100.0.133",
+    "cameras": [
+     {
+      "name": "Camera 1",
+      "ip": ""
+     },
+     {
+      "name": "Camera 2",
+      "ip": ""
+     },
+     {
+      "name": "Camera 3",
+      "ip": ""
+     },
+     {
+      "name": "Camera 4",
+      "ip": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Girinagar",
+  "devices": [
+   {
+    "name": "Sharifiya Hotel, Pradeep Circle",
+    "ip": "10.100.1.67",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Global infinity led shop",
+  "devices": [
+   {
+    "name": "Global infinity led shop",
+    "ip": "10.100.0.168",
+    "cameras": [
+     {
+      "name": "Channel 2",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "Channel 3",
+      "ip": "192.168.1.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Govindapura",
+  "devices": [
+   {
+    "name": "petrol pump subrayamanyapura",
+    "ip": "10.100.0.181",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "HAL PS",
+  "devices": [
+   {
+    "name": "high grounds",
+    "ip": "10.100.1.144",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "HSR layout",
+  "devices": [
+   {
+    "name": "Tejaswini Bar, Pipeline road",
+    "ip": "10.100.1.56",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.102",
+      "ip": "192.168.0.102"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.102",
+      "ip": "192.168.0.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Hanumanthnagar",
+  "devices": [
+   {
+    "name": "vidhyut electrical - chikpet",
+    "ip": "10.100.0.95",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.34",
+      "ip": "192.168.1.34"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.34",
+      "ip": "192.168.1.34"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Harayina Handloom, Hanumanthnagar",
+  "devices": [
+   {
+    "name": "Harayina Handloom, Hanumanthnagar",
+    "ip": "10.100.0.140",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.104",
+      "ip": "192.168.0.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Hemadri Lodge",
+  "devices": [
+   {
+    "name": "Hemadri Lodge",
+    "ip": "10.100.1.81",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.114",
+      "ip": "192.168.0.114"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.114",
+      "ip": "192.168.0.114"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Hotel, Yelahanka",
+  "devices": [
+   {
+    "name": "Hotel, Yelahanka",
+    "ip": "10.100.1.217",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.10.68",
+      "ip": "192.168.10.68"
+     },
+     {
+      "name": "NVR Channel - 192.168.10.68",
+      "ip": "192.168.10.68"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "House 381, 7th block,1st A Cross, Koramangla",
+  "devices": [
+   {
+    "name": "House 381, 7th block,1st A Cross, Koramangla",
+    "ip": "10.100.2.14",
+    "cameras": [
+     {
+      "name": "Channel 3",
+      "ip": "192.168.0.191"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "I Siri, Choudadenahalli, Varthur",
+  "devices": [
+   {
+    "name": "I Siri, Choudadenahalli, Varthur",
+    "ip": "10.100.1.21",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.47",
+      "ip": "192.168.1.47"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Ifthar Hotel, Devanahalli",
+  "devices": [
+   {
+    "name": "Ifthar Hotel, Devanahalli",
+    "ip": "10.100.1.227",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.201",
+      "ip": "192.168.0.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.201",
+      "ip": "192.168.0.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.201",
+      "ip": "192.168.0.201"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Indian Oil, HP Gate",
+  "devices": [
+   {
+    "name": "Indian Oil, HP Gate",
+    "ip": "10.100.0.209",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Indiranagar",
+  "devices": [
+   {
+    "name": "Indiranagar",
+    "ip": "10.100.0.43",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.11",
+      "ip": "192.168.1.11"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Iyengar Bakery, Old Race Course Road",
+  "devices": [
+   {
+    "name": "Iyengar Bakery, Old Race Course Road",
+    "ip": "10.100.1.106",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.81",
+      "ip": "192.168.0.81"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Jalahalli",
+  "devices": [
+   {
+    "name": "ram tej bar",
+    "ip": "10.100.1.50",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.254",
+      "ip": "192.168.1.254"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.254",
+      "ip": "192.168.1.254"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Jashitha Steel Doors, Byadarahalli",
+  "devices": [
+   {
+    "name": "Jashitha Steel Doors, Byadarahalli",
+    "ip": "10.100.1.154",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Jayanagar PS",
+  "devices": [
+   {
+    "name": "Leo Stay",
+    "ip": "10.100.0.51",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.34",
+      "ip": "192.168.0.34"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Jaymatha Condiments, Vidyaranyapura",
+  "devices": [
+   {
+    "name": "Jaymatha Condiments, Vidyaranyapura",
+    "ip": "10.100.1.206",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.31.93",
+      "ip": "192.168.31.93"
+     },
+     {
+      "name": "NVR Channel - 192.168.31.93",
+      "ip": "192.168.31.93"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kadugodi",
+  "devices": [
+   {
+    "name": "Sai Teja PG, BTM",
+    "ip": "10.100.1.192",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kargil Bar, Basavanagudi",
+  "devices": [
+   {
+    "name": "Kargil Bar, Basavanagudi",
+    "ip": "10.100.0.161",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.12",
+      "ip": "192.168.1.12"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.12",
+      "ip": "192.168.1.12"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Karnataka Pipes",
+  "devices": [
+   {
+    "name": "Karnataka Pipes",
+    "ip": "10.100.1.93",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kempegowda Nagar",
+  "devices": [
+   {
+    "name": "hanuman enterprises",
+    "ip": "10.100.1.66",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     },
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kiran Computers, Kormangala",
+  "devices": [
+   {
+    "name": "Kiran Computers, Kormangala",
+    "ip": "10.100.1.177",
+    "cameras": [
+     {
+      "name": "Camera 1",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "Camera 2",
+      "ip": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kothanur",
+  "devices": [
+   {
+    "name": "Brau Galie",
+    "ip": "10.100.1.169",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kumaraswamy Layout",
+  "devices": [
+   {
+    "name": "Raymond, Rajkumar Road",
+    "ip": "10.100.1.88",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.108",
+      "ip": "192.168.1.108"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Kumbalagudu",
+  "devices": [
+   {
+    "name": "All Liquor Shop",
+    "ip": "10.100.1.132",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.201",
+      "ip": "192.168.1.201"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "LR Bande Rd, Bairasandra",
+  "devices": [
+   {
+    "name": "LR Bande Rd, Bairasandra",
+    "ip": "10.100.2.63",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Leo Stay",
+  "devices": [
+   {
+    "name": "Leo Stay",
+    "ip": "10.100.0.51",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.34",
+      "ip": "192.168.0.34"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "MR Bar Junction",
+  "devices": [
+   {
+    "name": "MR Bar Junction",
+    "ip": "10.100.1.48",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "MagagiRoad",
+  "devices": [
+   {
+    "name": "Mangal Moti Dress, 28th cross",
+    "ip": "10.100.1.119",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.100.249",
+      "ip": "192.168.100.249"
+     },
+     {
+      "name": "NVR Channel - 192.168.100.249",
+      "ip": "192.168.100.249"
+     },
+     {
+      "name": "NVR Channel - 192.168.100.249",
+      "ip": "192.168.100.249"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Mahadevpura",
+  "devices": [
+   {
+    "name": "Mahadevpura",
+    "ip": "10.100.0.42",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Mahalakshmi Bar",
+  "devices": [
+   {
+    "name": "Mahalakshmi Bar",
+    "ip": "10.100.1.83",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Mangal Moti Dress, 28th cross",
+  "devices": [
+   {
+    "name": "Mangal Moti Dress, 28th cross",
+    "ip": "10.100.1.119",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.100.249",
+      "ip": "192.168.100.249"
+     },
+     {
+      "name": "NVR Channel - 192.168.100.249",
+      "ip": "192.168.100.249"
+     },
+     {
+      "name": "NVR Channel - 192.168.100.249",
+      "ip": "192.168.100.249"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Manjunatha Grand Veg, Amrutahalli",
+  "devices": [
+   {
+    "name": "Manjunatha Grand Veg, Amrutahalli",
+    "ip": "10.100.1.218",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Manjunatha. Store, MM Layout",
+  "devices": [
+   {
+    "name": "Manjunatha. Store, MM Layout",
+    "ip": "10.100.2.75",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Milk Dairy, chikkajala",
+  "devices": [
+   {
+    "name": "Milk Dairy, chikkajala",
+    "ip": "10.100.1.253",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Mini Baby, Bagalakunte",
+  "devices": [
+   {
+    "name": "Mini Baby, Bagalakunte",
+    "ip": "10.100.1.167",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1..245",
+      "ip": "192.168.1..245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Mobile Command Centre",
+  "devices": [
+   {
+    "name": "gottigere bus stop",
+    "ip": "10.100.0.194",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.178",
+      "ip": "192.168.0.178"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.178",
+      "ip": "192.168.0.178"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Mohandas Lal Shop, Varthur",
+  "devices": [
+   {
+    "name": "Mohandas Lal Shop, Varthur",
+    "ip": "10.100.0.247",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "More Junction",
+  "devices": [
+   {
+    "name": "More Junction",
+    "ip": "10.100.1.58",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Nayara Petrol Pump, Thalaghattapura",
+  "devices": [
+   {
+    "name": "Nayara Petrol Pump, Thalaghattapura",
+    "ip": "10.100.0.185",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.15",
+      "ip": "192.168.1.15"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Near Muthyalamma Temple",
+  "devices": [
+   {
+    "name": "Near Muthyalamma Temple",
+    "ip": "10.100.2.23",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.118"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.116"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.116"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.116",
+      "ip": "192.168.0.116"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "New Mart, Yelahanka",
+  "devices": [
+   {
+    "name": "New Mart, Yelahanka",
+    "ip": "10.100.1.215",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.28.3",
+      "ip": "192.168.28.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.28.3",
+      "ip": "192.168.28.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "P R comforts banaswadi",
+  "devices": [
+   {
+    "name": "P R comforts banaswadi",
+    "ip": "10.100.2.47",
+    "cameras": [
+     {
+      "name": "NVR Channel - 10.0.5.15",
+      "ip": "10.0.5.15"
+     },
+     {
+      "name": "NVR Channel - 10.0.5.15",
+      "ip": "10.0.5.15"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "PK Mart",
+  "devices": [
+   {
+    "name": "PK Mart",
+    "ip": "10.100.2.19",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.64",
+      "ip": "192.168.0.64"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.64",
+      "ip": "192.168.0.64"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Pai Mobiles, Madivala",
+  "devices": [
+   {
+    "name": "Pai Mobiles, Madivala",
+    "ip": "10.100.1.200",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.16",
+      "ip": "192.168.1.16"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.16",
+      "ip": "192.168.1.16"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Parappana Agrahara",
+  "devices": [
+   {
+    "name": "Parappana Agrahara",
+    "ip": "10.100.0.225",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   },
+   {
+    "name": "rr bar & resturant",
+    "ip": "10.100.0.195",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Partner Automobile",
+  "devices": [
+   {
+    "name": "Partner Automobile",
+    "ip": "10.100.0.211",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.31.48",
+      "ip": "192.168.31.48"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Pavan Bar, Basavanagudi",
+  "devices": [
+   {
+    "name": "Pavan Bar, Basavanagudi",
+    "ip": "10.100.0.158",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.100.169",
+      "ip": "192.168.100.169"
+     },
+     {
+      "name": "NVR Channel - 192.168.100.169",
+      "ip": "192.168.100.169"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Peenya",
+  "devices": [
+   {
+    "name": "Partner Automobile",
+    "ip": "10.100.0.211",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.31.48",
+      "ip": "192.168.31.48"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Photo Studio, Rama Temple Road, Viveknagar",
+  "devices": [
+   {
+    "name": "Photo Studio, Rama Temple Road, Viveknagar",
+    "ip": "10.100.1.137",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Rajagopal Nagar",
+  "devices": [
+   {
+    "name": "PK Mart",
+    "ip": "10.100.2.19",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.64",
+      "ip": "192.168.0.64"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.64",
+      "ip": "192.168.0.64"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Rajajinagar",
+  "devices": [
+   {
+    "name": "Karnataka Pipes",
+    "ip": "10.100.1.93",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Rajarajeshwari Provision Store, Mahadevpura",
+  "devices": [
+   {
+    "name": "Rajarajeshwari Provision Store, Mahadevpura",
+    "ip": "10.100.1.17",
+    "cameras": [
+     {
+      "name": "Camera -",
+      "ip": ""
+     },
+     {
+      "name": "Camera -",
+      "ip": ""
+     },
+     {
+      "name": "Camera -",
+      "ip": ""
+     },
+     {
+      "name": "Camera -",
+      "ip": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Ramdev Jewellers, Chikkajala",
+  "devices": [
+   {
+    "name": "Ramdev Jewellers, Chikkajala",
+    "ip": "10.100.1.252",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Rathod Fashions, AT STREET",
+  "devices": [
+   {
+    "name": "Rathod Fashions, AT STREET",
+    "ip": "10.100.1.114",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Raymond, Rajkumar Road",
+  "devices": [
+   {
+    "name": "Raymond, Rajkumar Road",
+    "ip": "10.100.1.88",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.108",
+      "ip": "192.168.1.108"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Rentorio PG, 5th cross, Magadi Rd",
+  "devices": [
+   {
+    "name": "Rentorio PG, 5th cross, Magadi Rd",
+    "ip": "10.100.1.85",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.182",
+      "ip": "192.168.0.182"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.182",
+      "ip": "192.168.0.182"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Riyaz Tea Stall, Prashanth Layout, Whitefield",
+  "devices": [
+   {
+    "name": "Riyaz Tea Stall, Prashanth Layout, Whitefield",
+    "ip": "10.100.1.31",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Royal Orchid, Yelahanka",
+  "devices": [
+   {
+    "name": "Royal Orchid, Yelahanka",
+    "ip": "10.100.1.216",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "SBM Funeral Service, Kempegowda Nagar",
+  "devices": [
+   {
+    "name": "SBM Funeral Service, Kempegowda Nagar",
+    "ip": "10.100.0.166",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.52",
+      "ip": "192.168.1.52"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.52",
+      "ip": "192.168.1.52"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.52",
+      "ip": "192.168.1.52"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "SLR Works, CTR HOTEL",
+  "devices": [
+   {
+    "name": "SLR Works, CTR HOTEL",
+    "ip": "10.100.1.138",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "SN Recidency, 72 Cross",
+  "devices": [
+   {
+    "name": "SN Recidency, 72 Cross",
+    "ip": "10.100.1.77",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.6",
+      "ip": "192.168.1.6"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "SN comforts peenya",
+  "devices": [
+   {
+    "name": "SN comforts peenya",
+    "ip": "10.100.1.86",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.68.102",
+      "ip": "192.168.68.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.68.135",
+      "ip": "192.168.68.135"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "SSB Prime Stays",
+  "devices": [
+   {
+    "name": "SSB Prime Stays",
+    "ip": "10.100.2.18",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sagaya Real Estate, Mico Layout",
+  "devices": [
+   {
+    "name": "Sagaya Real Estate, Mico Layout",
+    "ip": "10.100.1.193",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sai Teja PG 2, BTM",
+  "devices": [
+   {
+    "name": "Sai Teja PG 2, BTM",
+    "ip": "10.100.1.191",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.102",
+      "ip": "192.168.0.102"
+     },
+     {
+      "name": "NVR Channel 4 (Manual)",
+      "ip": "192.168.0.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sai Teja PG, BTM",
+  "devices": [
+   {
+    "name": "Sai Teja PG, BTM",
+    "ip": "10.100.1.192",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sangeeta, Maranahalli Junction",
+  "devices": [
+   {
+    "name": "Sangeeta, Maranahalli Junction",
+    "ip": "10.100.1.35",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.28",
+      "ip": "192.168.1.28"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.28",
+      "ip": "192.168.1.28"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sankey Tank Rd, Malleshwaram",
+  "devices": [
+   {
+    "name": "Sankey Tank Rd, Malleshwaram",
+    "ip": "10.100.1.229",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.114",
+      "ip": "192.168.0.114"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.114",
+      "ip": "192.168.0.114"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Santosh Wines",
+  "devices": [
+   {
+    "name": "Santosh Wines",
+    "ip": "10.100.1.38",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sapna Home Needs, Shantinagar",
+  "devices": [
+   {
+    "name": "Sapna Home Needs, Shantinagar",
+    "ip": "10.100.0.50",
+    "cameras": [
+     {
+      "name": "Shantinagar",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Serinity, SG Palya",
+  "devices": [
+   {
+    "name": "Serinity, SG Palya",
+    "ip": "10.100.1.172",
+    "cameras": [
+     {
+      "name": "Camera - 192.168.0.110",
+      "ip": "192.168.0.110"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sharifiya Hotel, Pradeep Circle",
+  "devices": [
+   {
+    "name": "Sharifiya Hotel, Pradeep Circle",
+    "ip": "10.100.1.67",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "ShopRite",
+  "devices": [
+   {
+    "name": "ShopRite",
+    "ip": "10.100.0.177",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.150",
+      "ip": "192.168.0.150"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.150",
+      "ip": "192.168.0.150"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.150",
+      "ip": "192.168.0.150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Show Off Bakery, Begur",
+  "devices": [
+   {
+    "name": "Show Off Bakery, Begur",
+    "ip": "10.100.0.234",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Soho Pub, Basavanagudi",
+  "devices": [
+   {
+    "name": "Soho Pub, Basavanagudi",
+    "ip": "10.100.0.160",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.100",
+      "ip": "192.168.1.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.100",
+      "ip": "192.168.1.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sri Durga PG, Begur",
+  "devices": [
+   {
+    "name": "Sri Durga PG, Begur",
+    "ip": "10.100.0.236",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sri Krishna Vaibhava Veg, Kamakshipalya",
+  "devices": [
+   {
+    "name": "Sri Krishna Vaibhava Veg, Kamakshipalya",
+    "ip": "10.100.1.49",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.29",
+      "ip": "192.168.1.29"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sri Mahadeshwara Tiffin Centre, Vidyaranyapura",
+  "devices": [
+   {
+    "name": "Sri Mahadeshwara Tiffin Centre, Vidyaranyapura",
+    "ip": "10.100.1.220",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.29.180",
+      "ip": "192.168.29.180"
+     },
+     {
+      "name": "NVR Channel - 192.168.29.180",
+      "ip": "192.168.29.180"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sri Matha Vaibhava Hotel, Mico layout",
+  "devices": [
+   {
+    "name": "Sri Matha Vaibhava Hotel, Mico layout",
+    "ip": "10.100.1.188",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192,168.1.2",
+      "ip": "192,168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Suddaguntepalya",
+  "devices": [
+   {
+    "name": "Iyengar Bakery, Old Race Course Road",
+    "ip": "10.100.1.106",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.81",
+      "ip": "192.168.0.81"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Sudharshan Silks, 8th Cross Rd, Malleshwaram",
+  "devices": [
+   {
+    "name": "Sudharshan Silks, 8th Cross Rd, Malleshwaram",
+    "ip": "10.100.2.13",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.20",
+      "ip": "192.168.0.20"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.20",
+      "ip": "192.168.0.20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Surya Chandra Appartment, Bharathi Nagar",
+  "devices": [
+   {
+    "name": "Surya Chandra Appartment, Bharathi Nagar",
+    "ip": "10.100.2.29",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.29.55"
+     },
+     {
+      "name": "Channel 2",
+      "ip": "192.168.29.55"
+     },
+     {
+      "name": "Channel 3",
+      "ip": "192.168.29.55"
+     },
+     {
+      "name": "Channel 4",
+      "ip": "192.168.29.55"
+     },
+     {
+      "name": "Channel 5",
+      "ip": "192.168.29.55"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Swathi Hotel, Chikkabommasandra, Yelahanka New Town",
+  "devices": [
+   {
+    "name": "Swathi Hotel, Chikkabommasandra, Yelahanka New Town",
+    "ip": "10.100.1.221",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.128",
+      "ip": "192.168.1.128"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.128",
+      "ip": "192.168.1.128"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "TULSI HARDWARE",
+  "devices": [
+   {
+    "name": "TULSI HARDWARE",
+    "ip": "10.100.1.6",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.16",
+      "ip": "192.168.1.16"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.16",
+      "ip": "192.168.1.16"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Tejaswini Bar, Pipeline road",
+  "devices": [
+   {
+    "name": "Tejaswini Bar, Pipeline road",
+    "ip": "10.100.1.56",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.102",
+      "ip": "192.168.0.102"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.102",
+      "ip": "192.168.0.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Text Mart, Commercial Street",
+  "devices": [
+   {
+    "name": "Text Mart, Commercial Street",
+    "ip": "10.100.0.110",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Thalaghattapura",
+  "devices": [
+   {
+    "name": "beedicolony",
+    "ip": "10.100.2.33",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.31.56",
+      "ip": "192.168.31.56"
+     },
+     {
+      "name": "NVR Channel - 192.168.31.56",
+      "ip": "192.168.31.56"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Tigalarapalya Main Rd, Mahadevpurs ps",
+  "devices": [
+   {
+    "name": "Tigalarapalya Main Rd, Mahadevpurs ps",
+    "ip": "10.100.1.18",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.101",
+      "ip": "192.168.0.101"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.101",
+      "ip": "192.168.0.101"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Toscano restaurant",
+  "devices": [
+   {
+    "name": "Toscano restaurant",
+    "ip": "10.100.0.157",
+    "cameras": [
+     {
+      "name": "NVR Channel - 10.10.221.8",
+      "ip": "10.10.221.8"
+     },
+     {
+      "name": "NVR Channel - 10.10.221.8",
+      "ip": "10.10.221.8"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Triveni Road, Yeshwanthapura",
+  "devices": [
+   {
+    "name": "Triveni Road, Yeshwanthapura",
+    "ip": "10.100.2.20",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Uday Jewellery, Hanumanth Nagar",
+  "devices": [
+   {
+    "name": "Uday Jewellery, Hanumanth Nagar",
+    "ip": "10.100.0.139",
+    "cameras": [
+     {
+      "name": "Channel9",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Umesh Hotel, Seshadripuram",
+  "devices": [
+   {
+    "name": "Umesh Hotel, Seshadripuram",
+    "ip": "10.100.1.131",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Vaibhav Grand Hotel, Devanahalli New Bus Stand",
+  "devices": [
+   {
+    "name": "Vaibhav Grand Hotel, Devanahalli New Bus Stand",
+    "ip": "10.100.2.5",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.31.110",
+      "ip": "192.168.31.110"
+     },
+     {
+      "name": "NVR Channel - 192.168.31.110",
+      "ip": "192.168.31.110"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Vaibhav Hotel, Kothanur",
+  "devices": [
+   {
+    "name": "Vaibhav Hotel, Kothanur",
+    "ip": "10.100.1.212",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Vidhan Soudha",
+  "devices": [
+   {
+    "name": "revoli junction",
+    "ip": "10.100.1.94",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.189",
+      "ip": "192.168.0.189"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Whitefield",
+  "devices": [
+   {
+    "name": "Calicut PG, SG Palya",
+    "ip": "10.100.1.189",
+    "cameras": [
+     {
+      "name": "NVR Channel - 10.0.0.4",
+      "ip": "10.0.0.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Xcel PPF, Brigade Road",
+  "devices": [
+   {
+    "name": "Xcel PPF, Brigade Road",
+    "ip": "10.100.1.99",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Yelahanka",
+  "devices": [
+   {
+    "name": "ShopRite",
+    "ip": "10.100.0.177",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.150",
+      "ip": "192.168.0.150"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.150",
+      "ip": "192.168.0.150"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.150",
+      "ip": "192.168.0.150"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Yelahanka New Town",
+  "devices": [
+   {
+    "name": "Pai Mobiles, Madivala",
+    "ip": "10.100.1.200",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.16",
+      "ip": "192.168.1.16"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.16",
+      "ip": "192.168.1.16"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Yeshwanthapura",
+  "devices": [
+   {
+    "name": "gandinagar-kengeri",
+    "ip": "10.100.2.31",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     },
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "adithyam veg , avalahalli ps",
+  "devices": [
+   {
+    "name": "adithyam veg , avalahalli ps",
+    "ip": "10.100.0.242",
+    "cameras": [
+     {
+      "name": "Channel 11",
+      "ip": "192.168.1.100"
+     },
+     {
+      "name": "Channel 14",
+      "ip": "192.168.1.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "avnith pg",
+  "devices": [
+   {
+    "name": "avnith pg",
+    "ip": "10.100.1.16",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.105",
+      "ip": "192.168.1.104"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "banalore medical kg halli",
+  "devices": [
+   {
+    "name": "banalore medical kg halli",
+    "ip": "10.100.2.86",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.7",
+      "ip": "192.168.0.7"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.7",
+      "ip": "192.168.0.7"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.7",
+      "ip": "192.168.0.7"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "banaswadi",
+  "devices": [
+   {
+    "name": "banaswadi",
+    "ip": "10.100.0.71",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.33",
+      "ip": "192.168.1.33"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.33",
+      "ip": "192.168.1.33"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.33",
+      "ip": "192.168.1.33"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "basvanagodibandobast",
+  "devices": [
+   {
+    "name": "basvanagodibandobast",
+    "ip": "10.100.0.159",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.20.4"
+     },
+     {
+      "name": "Channel 2",
+      "ip": "192.168.20.4"
+     },
+     {
+      "name": "Channel 4",
+      "ip": "192.168.20.4"
+     },
+     {
+      "name": "Channel 5",
+      "ip": "192.168.20.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "beedicolony",
+  "devices": [
+   {
+    "name": "beedicolony",
+    "ip": "10.100.2.33",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.31.56",
+      "ip": "192.168.31.56"
+     },
+     {
+      "name": "NVR Channel - 192.168.31.56",
+      "ip": "192.168.31.56"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "bellandur bridge pg",
+  "devices": [
+   {
+    "name": "bellandur bridge pg",
+    "ip": "10.100.1.2",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.1.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "bharthi nagar",
+  "devices": [
+   {
+    "name": "Mahalakshmi Bar",
+    "ip": "10.100.1.83",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "blunt",
+  "devices": [
+   {
+    "name": "blunt",
+    "ip": "10.100.1.183",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "brand factory",
+  "devices": [
+   {
+    "name": "brand factory",
+    "ip": "10.100.0.193",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "busy mart girls PG peenya",
+  "devices": [
+   {
+    "name": "busy mart girls PG peenya",
+    "ip": "10.100.1.159",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "carry fresh pulkeshinagar",
+  "devices": [
+   {
+    "name": "carry fresh pulkeshinagar",
+    "ip": "10.100.2.52",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.103",
+      "ip": "192.168.1.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.103",
+      "ip": "192.168.1.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "chicken briyani",
+  "devices": [
+   {
+    "name": "chicken briyani",
+    "ip": "10.100.1.235",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.29.71",
+      "ip": "192.168.29.71"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "church shivaji nagar",
+  "devices": [
+   {
+    "name": "church shivaji nagar",
+    "ip": "10.100.2.51",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "citymarket",
+  "devices": [
+   {
+    "name": "citymarket",
+    "ip": "10.100.0.73",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "claret collage",
+  "devices": [
+   {
+    "name": "claret collage",
+    "ip": "10.100.2.26",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.3.3",
+      "ip": "192.168.3.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.3.3",
+      "ip": "192.168.3.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.3.3",
+      "ip": "192.168.3.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.3.3",
+      "ip": "192.168.3.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.3.3",
+      "ip": "192.168.3.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.3.3",
+      "ip": "192.168.3.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "cloths shop halasuru",
+  "devices": [
+   {
+    "name": "cloths shop halasuru",
+    "ip": "10.100.2.38",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.10",
+      "ip": "192.168.0.10"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "emperio hotel",
+  "devices": [
+   {
+    "name": "emperio hotel",
+    "ip": "10.100.2.47",
+    "cameras": [
+     {
+      "name": "NVR Channel - 10.0.5.15",
+      "ip": "10.0.5.15"
+     },
+     {
+      "name": "NVR Channel - 10.0.5.15",
+      "ip": "10.0.5.15"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "fathima church gangammagudi",
+  "devices": [
+   {
+    "name": "fathima church gangammagudi",
+    "ip": "10.100.1.146",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.101",
+      "ip": "192.168.1.101"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "freedom park",
+  "devices": [
+   {
+    "name": "freedom park",
+    "ip": "10.100.0.202",
+    "cameras": [
+     {
+      "name": "BBMP Parking Freedom Park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park A",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park B",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park C",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park D",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Infront of Statue Freedom Park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Kalidas Marg_BBMP Parking",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Kalidasa Marg Freedom park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Neravu Freedom Park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Shashadri Rd Towards Upper ramp",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Junction Freedompark",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Rd Towards Upper Ramp 2",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Road A",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Road B",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "channel 1",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "channel 2",
+      "ip": "192.168.1.108"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "gandinagar-kengeri",
+  "devices": [
+   {
+    "name": "gandinagar-kengeri",
+    "ip": "10.100.2.31",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     },
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "gas bunk shivaji nagar",
+  "devices": [
+   {
+    "name": "gas bunk shivaji nagar",
+    "ip": "10.100.2.55",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "gottigere bus stop",
+  "devices": [
+   {
+    "name": "gottigere bus stop",
+    "ip": "10.100.0.194",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.178",
+      "ip": "192.168.0.178"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.178",
+      "ip": "192.168.0.178"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "govindrajanagar",
+  "devices": [
+   {
+    "name": "Sapna Home Needs, Shantinagar",
+    "ip": "10.100.0.50",
+    "cameras": [
+     {
+      "name": "Shantinagar",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "hanuman enterprises",
+  "devices": [
+   {
+    "name": "hanuman enterprises",
+    "ip": "10.100.1.66",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     },
+     {
+      "name": "NVR Channel - 192.168.29.75",
+      "ip": "192.168.29.75"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "high grounds",
+  "devices": [
+   {
+    "name": "Bus Stop - Viveknagar",
+    "ip": "10.100.1.112",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     }
+    ]
+   },
+   {
+    "name": "high grounds",
+    "ip": "10.100.1.144",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "high grounds 2",
+  "devices": [
+   {
+    "name": "high grounds 2",
+    "ip": "10.100.1.141",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "hindu mashana, kempegowda nagar",
+  "devices": [
+   {
+    "name": "hindu mashana, kempegowda nagar",
+    "ip": "10.100.0.166",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.52",
+      "ip": "192.168.1.52"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.52",
+      "ip": "192.168.1.52"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.52",
+      "ip": "192.168.1.52"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "home town super market",
+  "devices": [
+   {
+    "name": "home town super market",
+    "ip": "10.100.0.249",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.103",
+      "ip": "192.168.1.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.103",
+      "ip": "192.168.1.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.103",
+      "ip": "192.168.1.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "hotel sri thirumla paradise, cottenpet",
+  "devices": [
+   {
+    "name": "hotel sri thirumla paradise, cottenpet",
+    "ip": "10.100.1.46",
+    "cameras": [
+     {
+      "name": "Channel 5",
+      "ip": "192.168.1.10"
+     },
+     {
+      "name": "Channel 6",
+      "ip": "192.168.1.10"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "kengeri",
+  "devices": [
+   {
+    "name": "citymarket",
+    "ip": "10.100.0.73",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "kg halli",
+  "devices": [
+   {
+    "name": "More Junction",
+    "ip": "10.100.1.58",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "khane road rammurthy nagar",
+  "devices": [
+   {
+    "name": "khane road rammurthy nagar",
+    "ip": "10.100.2.78",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "kitchen king",
+  "devices": [
+   {
+    "name": "kitchen king",
+    "ip": "10.100.2.53",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.17",
+      "ip": "192.168.1.17"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.17",
+      "ip": "192.168.1.17"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.17",
+      "ip": "192.168.1.17"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "konankunte",
+  "devices": [
+   {
+    "name": "banaswadi",
+    "ip": "10.100.0.71",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.33",
+      "ip": "192.168.1.33"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.33",
+      "ip": "192.168.1.33"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.33",
+      "ip": "192.168.1.33"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "krishna sagar ,amruthalli",
+  "devices": [
+   {
+    "name": "krishna sagar ,amruthalli",
+    "ip": "10.100.1.209",
+    "cameras": [
+     {
+      "name": "Main Entrance",
+      "ip": "192.168.1.101"
+     },
+     {
+      "name": "Parking Lot",
+      "ip": "192.168.1.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "krishnavaibhavhotel",
+  "devices": [
+   {
+    "name": "krishnavaibhavhotel",
+    "ip": "10.100.2.89",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.110",
+      "ip": "192.168.0.110"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "magnolia bakery indra nagar",
+  "devices": [
+   {
+    "name": "magnolia bakery indra nagar",
+    "ip": "10.100.2.61",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.9.246",
+      "ip": "192.168.9.246"
+     },
+     {
+      "name": "NVR Channel - 192.168.9.246",
+      "ip": "192.168.9.246"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "maha bazaar banaswadi",
+  "devices": [
+   {
+    "name": "maha bazaar banaswadi",
+    "ip": "10.100.2.77",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "mahalakshmipura",
+  "devices": [
+   {
+    "name": "Sangeeta, Maranahalli Junction",
+    "ip": "10.100.1.35",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.28",
+      "ip": "192.168.1.28"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.28",
+      "ip": "192.168.1.28"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "maharaja bar peenya",
+  "devices": [
+   {
+    "name": "maharaja bar peenya",
+    "ip": "10.100.1.150",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.104",
+      "ip": "192.168.0.104"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.104",
+      "ip": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "mari muttu house kg halli",
+  "devices": [
+   {
+    "name": "mari muttu house kg halli",
+    "ip": "10.100.2.87",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.38",
+      "ip": "192.168.1.38"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.38",
+      "ip": "192.168.1.38"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.38",
+      "ip": "192.168.1.38"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "mauyga bakery, Kadugodi",
+  "devices": [
+   {
+    "name": "mauyga bakery, Kadugodi",
+    "ip": "10.100.1.15",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "mayuri bar and resturant",
+  "devices": [
+   {
+    "name": "mayuri bar and resturant",
+    "ip": "10.100.1.11",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.70",
+      "ip": "192.168.1.70"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.70",
+      "ip": "192.168.1.70"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.70",
+      "ip": "192.168.1.70"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.70",
+      "ip": "192.168.1.70"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "mehdi steels and rolling shutters , soladevanahalli",
+  "devices": [
+   {
+    "name": "mehdi steels and rolling shutters , soladevanahalli",
+    "ip": "10.100.1.160",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "midas daily, HAL PS",
+  "devices": [
+   {
+    "name": "midas daily, HAL PS",
+    "ip": "10.100.1.3",
+    "cameras": [
+     {
+      "name": "Channel 7",
+      "ip": "192.168.1.103"
+     },
+     {
+      "name": "Channel 8",
+      "ip": "192.168.1.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "moorumara junction",
+  "devices": [
+   {
+    "name": "moorumara junction",
+    "ip": "10.100.1.103",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 193.168.0.100",
+      "ip": "193.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "nandini layout",
+  "devices": [
+   {
+    "name": "Rathod Fashions, AT STREET",
+    "ip": "10.100.1.114",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.74",
+      "ip": "192.168.1.74"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "nandini milk bagalakunte",
+  "devices": [
+   {
+    "name": "nandini milk bagalakunte",
+    "ip": "10.100.1.167",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1..245",
+      "ip": "192.168.1..245"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.245",
+      "ip": "192.168.1.245"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "navratha bar kamashipalya",
+  "devices": [
+   {
+    "name": "navratha bar kamashipalya",
+    "ip": "10.100.1.55",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.104",
+      "ip": "192.168.1.104"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "nethan next",
+  "devices": [
+   {
+    "name": "nethan next",
+    "ip": "10.100.2.70",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.3",
+      "ip": "192.168.1.3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "nri layout rammurthy nagar",
+  "devices": [
+   {
+    "name": "nri layout rammurthy nagar",
+    "ip": "10.100.2.73",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "p and t layout junction kamashipalya",
+  "devices": [
+   {
+    "name": "p and t layout junction kamashipalya",
+    "ip": "10.100.1.75",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.17",
+      "ip": "192.168.1.17"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.17",
+      "ip": "192.168.1.17"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.17",
+      "ip": "192.168.1.17"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "panchamicomforts",
+  "devices": [
+   {
+    "name": "panchamicomforts",
+    "ip": "10.100.2.37",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.119",
+      "ip": "192.168.1.119"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "parking shivaji nagar",
+  "devices": [
+   {
+    "name": "parking shivaji nagar",
+    "ip": "10.100.2.62",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.4",
+      "ip": "192.168.0.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.4",
+      "ip": "192.168.0.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.4",
+      "ip": "192.168.0.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.4",
+      "ip": "192.168.0.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.4",
+      "ip": "192.168.0.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.4",
+      "ip": "192.168.0.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "petrol pump subrayamanyapura",
+  "devices": [
+   {
+    "name": "petrol pump subrayamanyapura",
+    "ip": "10.100.0.181",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.108",
+      "ip": "192.168.0.108"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "philips telecom halasuru",
+  "devices": [
+   {
+    "name": "philips telecom halasuru",
+    "ip": "10.100.2.74",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.22.25",
+      "ip": "192.168.22.25"
+     },
+     {
+      "name": "NVR Channel - 192.168.22.25",
+      "ip": "192.168.22.25"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "pillanagarden scrap shop kg halli",
+  "devices": [
+   {
+    "name": "pillanagarden scrap shop kg halli",
+    "ip": "10.100.2.58",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "pk home needs high grounds",
+  "devices": [
+   {
+    "name": "pk home needs high grounds",
+    "ip": "10.100.1.144",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.9",
+      "ip": "192.168.0.9"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "pk home needs kg halli",
+  "devices": [
+   {
+    "name": "pk home needs kg halli",
+    "ip": "10.100.2.76",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.109",
+      "ip": "192.168.0.109"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "poison sprite",
+  "devices": [
+   {
+    "name": "poison sprite",
+    "ip": "10.100.2.66",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.4",
+      "ip": "192.168.1.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "preethi stores",
+  "devices": [
+   {
+    "name": "preethi stores",
+    "ip": "10.100.1.168",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "prime pg",
+  "devices": [
+   {
+    "name": "prime pg",
+    "ip": "10.100.2.48",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.7",
+      "ip": "192.168.0.7"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.7",
+      "ip": "192.168.0.7"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "prince apartment",
+  "devices": [
+   {
+    "name": "prince apartment",
+    "ip": "10.100.0.208",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.200",
+      "ip": "192.168.1.200"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "psr collection bagalakunte",
+  "devices": [
+   {
+    "name": "psr collection bagalakunte",
+    "ip": "10.100.1.149",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "pulakeshinagara",
+  "devices": [
+   {
+    "name": "Anna Travels, Madivala",
+    "ip": "10.100.1.184",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "puzzle PG peenya",
+  "devices": [
+   {
+    "name": "puzzle PG peenya",
+    "ip": "10.100.1.152",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rajgolpalnagar JDN house",
+  "devices": [
+   {
+    "name": "rajgolpalnagar JDN house",
+    "ip": "10.100.1.157",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.240",
+      "ip": "192.168.1.240"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rajgolpalnagar RJ bar",
+  "devices": [
+   {
+    "name": "rajgolpalnagar RJ bar",
+    "ip": "10.100.1.166",
+    "cameras": [
+     {
+      "name": "NVR Channel -",
+      "ip": ""
+     },
+     {
+      "name": "NVR Channel -",
+      "ip": ""
+     },
+     {
+      "name": "NVR Channel -",
+      "ip": ""
+     },
+     {
+      "name": "NVR Channel -",
+      "ip": ""
+     },
+     {
+      "name": "NVR Channel - 192.168.0.2",
+      "ip": "192.168.0.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rajgolpalnagar butterfly shop",
+  "devices": [
+   {
+    "name": "rajgolpalnagar butterfly shop",
+    "ip": "10.100.1.91",
+    "cameras": [
+     {
+      "name": "Channel 4",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "Channel 5",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "Channel 6",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "Channel 7",
+      "ip": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rajgolpalnagar power bar",
+  "devices": [
+   {
+    "name": "rajgolpalnagar power bar",
+    "ip": "10.100.1.164",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.102",
+      "ip": "192.168.0.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "ram tej bar",
+  "devices": [
+   {
+    "name": "ram tej bar",
+    "ip": "10.100.1.50",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.254",
+      "ip": "192.168.1.254"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.254",
+      "ip": "192.168.1.254"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rameshwaram cafe, HAL PS",
+  "devices": [
+   {
+    "name": "rameshwaram cafe, HAL PS",
+    "ip": "10.100.0.246",
+    "cameras": [
+     {
+      "name": "Channel 1",
+      "ip": "192.168.0.160"
+     },
+     {
+      "name": "Channel 4",
+      "ip": "192.168.0.160"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rashtrakutas",
+  "devices": [
+   {
+    "name": "rashtrakutas",
+    "ip": "10.100.1.194",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.106",
+      "ip": "192.168.0.106"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "revoli junction",
+  "devices": [
+   {
+    "name": "revoli junction",
+    "ip": "10.100.1.94",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.189",
+      "ip": "192.168.0.189"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rmc yard",
+  "devices": [
+   {
+    "name": "sukh sagar",
+    "ip": "10.100.1.115",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.100",
+      "ip": "192.168.1.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rose garden bar pulkeshinagar",
+  "devices": [
+   {
+    "name": "rose garden bar pulkeshinagar",
+    "ip": "10.100.2.85",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.105",
+      "ip": "192.168.0.105"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.105",
+      "ip": "192.168.0.105"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "rr bar & resturant",
+  "devices": [
+   {
+    "name": "rr bar & resturant",
+    "ip": "10.100.0.195",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.103",
+      "ip": "192.168.0.103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "saloon - vyalikaval",
+  "devices": [
+   {
+    "name": "saloon - vyalikaval",
+    "ip": "10.100.1.128",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "shanti sagar hotel",
+  "devices": [
+   {
+    "name": "shanti sagar hotel",
+    "ip": "10.100.2.57",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "sheha car halasuru",
+  "devices": [
+   {
+    "name": "sheha car halasuru",
+    "ip": "10.100.2.49",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "shihab thangal centre",
+  "devices": [
+   {
+    "name": "shihab thangal centre",
+    "ip": "10.100.0.153",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.178",
+      "ip": "192.168.0.178"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.178",
+      "ip": "192.168.0.178"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "shivaji nagar",
+  "devices": [
+   {
+    "name": "blunt",
+    "ip": "10.100.1.183",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.100",
+      "ip": "192.168.0.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "shree khashi viswanatha temple, avalahalli",
+  "devices": [
+   {
+    "name": "shree khashi viswanatha temple, avalahalli",
+    "ip": "10.100.0.250",
+    "cameras": [
+     {
+      "name": "Channel 15",
+      "ip": "192.168.1.34"
+     },
+     {
+      "name": "Channel 3",
+      "ip": "192.168.1.34"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "siddapura",
+  "devices": [
+   {
+    "name": "Santosh Wines",
+    "ip": "10.100.1.38",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.5",
+      "ip": "192.168.1.5"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "sj park",
+  "devices": [
+   {
+    "name": "SLR Works, CTR HOTEL",
+    "ip": "10.100.1.138",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "southeast division",
+  "devices": [
+   {
+    "name": "MR Bar Junction",
+    "ip": "10.100.1.48",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.106",
+      "ip": "192.168.1.106"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "street 1522 pub",
+  "devices": [
+   {
+    "name": "street 1522 pub",
+    "ip": "10.100.1.7",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.134",
+      "ip": "192.168.1.134"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "subrayamanyapura",
+  "devices": [
+   {
+    "name": "saloon - vyalikaval",
+    "ip": "10.100.1.128",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "sukh sagar",
+  "devices": [
+   {
+    "name": "sukh sagar",
+    "ip": "10.100.1.115",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.100",
+      "ip": "192.168.1.100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "taha masjid",
+  "devices": [
+   {
+    "name": "taha masjid",
+    "ip": "10.100.2.45",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.2",
+      "ip": "192.168.1.2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "tamil sangam",
+  "devices": [
+   {
+    "name": "tamil sangam",
+    "ip": "10.100.2.27",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.27",
+      "ip": "192.168.1.27"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.27",
+      "ip": "192.168.1.27"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "toddle town school kg halli",
+  "devices": [
+   {
+    "name": "toddle town school kg halli",
+    "ip": "10.100.2.71",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.0.101",
+      "ip": "192.168.0.101"
+     },
+     {
+      "name": "NVR Channel - 192.168.0.101",
+      "ip": "192.168.0.101"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "tonic bar bagalakunte",
+  "devices": [
+   {
+    "name": "tonic bar bagalakunte",
+    "ip": "10.100.0.203",
+    "cameras": [
+     {
+      "name": "Main Entrance",
+      "ip": "192.168.1.101"
+     },
+     {
+      "name": "Parking Lot",
+      "ip": "192.168.1.102"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "vidhyut electrical - chikpet",
+  "devices": [
+   {
+    "name": "vidhyut electrical - chikpet",
+    "ip": "10.100.0.95",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.34",
+      "ip": "192.168.1.34"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.34",
+      "ip": "192.168.1.34"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "viveknagar",
+  "devices": [
+   {
+    "name": "freedom park",
+    "ip": "10.100.0.202",
+    "cameras": [
+     {
+      "name": "BBMP Parking Freedom Park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park A",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park B",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park C",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Freedom Park D",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Infront of Statue Freedom Park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Kalidas Marg_BBMP Parking",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Kalidasa Marg Freedom park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Neravu Freedom Park",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Shashadri Rd Towards Upper ramp",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Junction Freedompark",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Rd Towards Upper Ramp 2",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Road A",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "Sheshadri Road B",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "channel 1",
+      "ip": "192.168.1.108"
+     },
+     {
+      "name": "channel 2",
+      "ip": "192.168.1.108"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "wrong circle",
+  "devices": [
+   {
+    "name": "wrong circle",
+    "ip": "10.100.1.187",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.85",
+      "ip": "192.168.1.85"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "your selection, Commercial Street",
+  "devices": [
+   {
+    "name": "your selection, Commercial Street",
+    "ip": "10.100.2.43",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.14",
+      "ip": "192.168.1.14"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.14",
+      "ip": "192.168.1.14"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.14",
+      "ip": "192.168.1.14"
+     },
+     {
+      "name": "NVR Channel - 192.168.1.14",
+      "ip": "192.168.1.14"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "zingara hotel rammurthy nagar",
+  "devices": [
+   {
+    "name": "zingara hotel rammurthy nagar",
+    "ip": "10.100.2.68",
+    "cameras": [
+     {
+      "name": "NVR Channel - 192.168.1.11",
+      "ip": "192.168.1.11"
+     }
+    ]
+   }
+  ]
+ }
+]

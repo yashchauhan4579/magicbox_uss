@@ -1,0 +1,11 @@
+{
+  "report_url": "http://10.100.0.37:9010/api/magicbox-crowd/ingest",
+  "model_path": "/userdata/linaro/head_deploy/models/best_head_fp16_320.rknn",
+  "input_size": 320,
+  "cycle_interval_sec": 5,
+  "rediscovery_interval_sec": 60,
+  "conf_threshold": 0.3,
+  "iou_threshold": 0.45,
+  "thermal_throttle_c": 80,
+  "usscore_url": "http://localhost:8080"
+}
