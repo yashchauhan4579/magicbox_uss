@@ -1,0 +1,18 @@
+api:
+  endpoint: 'http://192.168.1.220:3000/api/events/metric'
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ3MGRlZGE1LTBkYmEtNDg3ZS05MTA2LWVkYjczNjVkZmU3MSIsImVtYWlsIjoiYWRtaW5AZXhhbXBsZS5jb20iLCJyb2xlIjoiQURNSU4iLCJpYXQiOjE3NTE1NDkzNzgsImV4cCI6MTc1NDE0MTM3OH0.Y_3mFwCsWKxfh4eM4wmo0I5HBlOr2FpSXPPArQMdVj0'
+
+# cameras:
+#   - id: '3ed656b1-9849-4d12-9dcc-af7b83ccdb10'
+#     input_url: './mp4/cam1-2025-06-28_22-31-20.mp4'
+
+
+
+cameras:
+  # - id: '43fd6e88-d734-44f8-9f41-5ef4666ea9a7'
+  #   input_url: 'rtsp://admin:admin%4012345@192.168.1.199:554/cam/realmonitor?channel=10&subtype=0'
+  # - id: '58fcf3f2-7418-4a19-91c6-1e8336f93c34'
+  #   input_url: "rtsp://admin:admin%4012345@192.168.1.199:554/cam/realmonitor?channel=10&subtype=0"
+  - id: "82e5568d-5975-456b-8289-eb3d2a5faf4b"
+    input_url: "rtsp://57.159.25.115:8554/chik1"
+

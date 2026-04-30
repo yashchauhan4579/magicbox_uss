@@ -1,0 +1,8 @@
+cameras:
+  - id: '43fd6e88-d734-44f8-9f41-5ef4666ea9a7'
+    input_url: 'rtsp://admin:admin%4012345@192.168.1.199:554/cam/realmonitor?channel=10&subtype=0'
+  - id: 'a5582d76-191b-4969-93e5-373002476688'
+    input_url: "rtsp://service:Admin%2112345@192.168.0.18:554/cam/realmonitor?channel=1&subtype=0"
+  - id: "df9f5919-05ad-4e32-9aa0-0a590acc034c"
+    input_url: "rtsp://service:Admin%2112345@192.168.0.41:554/cam/realmonitor?channel=11&subtype=0"
+

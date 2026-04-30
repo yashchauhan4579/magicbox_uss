@@ -1,0 +1,18 @@
+[Unit]
+Description=IRIS Head Detection Pipeline v3
+After=network-online.target usscore.service ussstreamcontroller.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/usr/local/uss
+Environment=PATH=/userdata/linaro/head_deploy/venv/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/userdata/linaro/head_deploy/venv/bin/python3 /userdata/linaro/head_deploy/scripts/head_pipeline_v3.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

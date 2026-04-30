@@ -1,0 +1,17 @@
+[Unit]
+Description=IRIS Crowd Analysis Worker (dashboard live feeds)
+After=iris-backend.service
+Requires=iris-backend.service
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/Desktop/iris_command/py_backend
+ExecStart=/home/ubuntu/Desktop/iris_command/py_backend/.venv/bin/python -u /home/ubuntu/Desktop/iris_command/py_backend/crowd_worker.py
+Restart=always
+RestartSec=15
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

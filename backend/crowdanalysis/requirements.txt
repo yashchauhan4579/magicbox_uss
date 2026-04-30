@@ -1,0 +1,13 @@
+torch >= 1.0.1
+torchvision
+tensorboardX
+tensorboard
+easydict
+pandas
+numpy
+scipy
+pillow
+matplotlib
+opencv-python
+requests
+pyyaml
